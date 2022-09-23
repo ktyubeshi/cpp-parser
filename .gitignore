@@ -1,0 +1,4 @@
+/build/
+/doxygen-output/
+__pycache__
+*.tsv
